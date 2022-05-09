@@ -1,0 +1,2 @@
+kubeadm join 172.31.91.193:6443 --token qnqjla.1y2i6exv0s8n9ium \
+        --discovery-token-ca-cert-hash sha256:2897c1c7ae64239c3fb9262f185f6d87a2cc975de4b75c163639a3e13b101b4a
